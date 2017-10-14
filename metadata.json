@@ -1,0 +1,15 @@
+{
+  "name": "mmiller-ssh",
+  "version": "0.1.0",
+  "author": "Micah Miller <version7x@gmail.com>",
+  "summary": "Module for managing SSH",
+  "license": "Apache-2.0",
+  "source": "https://github.com/version7x/puppet-ssh",
+  "project_page": "https://github.com/version7x/puppet-ssh",
+  "issues_url": "https://github.com/version7x/puppet-ssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
